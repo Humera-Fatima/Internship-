@@ -1,1 +1,1 @@
-# Internship-Stock-management
+# Internship-Bokk management
